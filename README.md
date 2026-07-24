@@ -80,9 +80,3 @@ Each book contains the following details:
 - Convert into a Flask/FastAPI web application
 
 ---
-
-## 👨‍💻 Author
-
-**Karan Giri**
-
-Aspiring Software Engineer | Python Developer | Future AI Engineer
